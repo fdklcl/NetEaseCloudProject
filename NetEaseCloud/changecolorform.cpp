@@ -36,7 +36,7 @@ void ChangeColorForm::on_ptnRed_clicked()
 
 void ChangeColorForm::on_ptnBlue_clicked()
 {
-     LoadFileQss::setStyle("./FileColorQSS/Blue.qss"); //加载qss 样式表，用静态方式
+     LoadFileQss::setStyle("./FileColorQSS/Blue.qss");
 }
 
 
